@@ -1,3 +1,18 @@
 body {
-  background: orange;
+  background: whitesmoke;
+}
+
+.container {
+  background-color: bisque;
+  color: blueviolet;
+}
+
+.not-container {
+  background-color: lightyellow;
+  color: red;
+}
+
+.new_container {
+  background-color: black;
+  color: white;
 }
